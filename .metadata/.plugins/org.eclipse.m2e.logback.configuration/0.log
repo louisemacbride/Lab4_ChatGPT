@@ -1,0 +1,9 @@
+2023-03-26 18:39:53,364 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-26 18:40:16,557 [Worker-18: Creating project "Lab4_Chat"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Lab4_Chat:Lab4_Chat:0.0.1-SNAPSHOT @ C:\Users\35386\lab4_ChatGPT\Lab4_Chat\pom.xml.
+2023-03-26 18:40:16,889 [Worker-18: Creating project "Lab4_Chat"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Lab4_Chat/src/main/java
+2023-03-26 18:40:16,891 [Worker-18: Creating project "Lab4_Chat"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Lab4_Chat/src/main/resources
+2023-03-26 18:40:16,891 [Worker-18: Creating project "Lab4_Chat"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Lab4_Chat/src/test/java
+2023-03-26 18:40:16,892 [Worker-18: Creating project "Lab4_Chat"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Lab4_Chat/src/test/resources
+2023-03-26 18:40:18,293 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-26 18:40:18,298 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-26 18:40:18,300 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
