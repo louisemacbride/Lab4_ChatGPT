@@ -3,6 +3,7 @@ public class Numbers {
 	public static void main(String[] args) {
         int num1 = 10;
         int num2 = 5;
+	int num3 = 7;
 
         // addition
         int sum = num1 + num2;
